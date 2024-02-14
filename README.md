@@ -1,2 +1,4 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Group_project
+project creation date: 02/13/24
+authors: Kalpashree Rajanna, Owen Song, Yingxin Zhang and Gurleen Rao
+
